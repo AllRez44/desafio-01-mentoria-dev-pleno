@@ -1,0 +1,22 @@
+{
+  "name": "express-warehouse",
+  "version": "1.0.0",
+  "description": "---  ## About the project - This is a simple fullstack node.js app for training concepts of **OOP** and **MVC**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllRez44/desafio-01-mentoria-dev-pleno.git"
+  },
+  "author": "AllRez44",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllRez44/desafio-01-mentoria-dev-pleno/issues"
+  },
+  "homepage": "https://github.com/AllRez44/desafio-01-mentoria-dev-pleno#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
